@@ -38,7 +38,6 @@ Advanced filtering system mapped to backend databases for instantaneous inventor
 
 * **Languages:** Java (Swing UI Framework), Python (Data Parsing Modules), SQL (Database Engine).
 * **Libraries & Layouts:** MigLayout, JGoodies Forms for responsive and structured desktop interfaces.
-* **Environment:** Developed and tested natively leveraging Linux environments via WSL2 (Ubuntu).
 * **Data Standards:** Mapped specifically to handle industrial inventory data structures (P/N, Part Numbers, Descriptions, and Minimum Thresholds).
 
 ---
