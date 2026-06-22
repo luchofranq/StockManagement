@@ -11,17 +11,17 @@ This project bridges data engineering with an interactive user interface to opti
 ### Welcome & Authentication
 The application initializes with a clean, secured login interface to access corporate records.
 
-![Welcome Interface](image_8d33a8.png)
+![Welcome Interface](images/main.png)
 
 ### Quotation & Inventory Control Panel
 The main operations module allows real-time parts lookup, dynamic pricing calculations, and automated PDF export.
 
-![Main Operations and Quotations](image_8d33ac.png)
+![Main Operations and Quotations](images/quotation.png)
 
 ### Data Visualization & Tables
 Advanced filtering system mapped to backend databases for instantaneous inventory audits, minimum stock thresholds, and price tracking.
 
-![Data Tables and Filtering](image_8d33c5.png)
+![Data Tables and Filtering](images/table.png)
 
 ---
 
